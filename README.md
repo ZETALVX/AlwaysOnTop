@@ -17,6 +17,7 @@ SCRIPT
 I used AutoHotKey to create the program and convert it to .exe
 
 This is the script i used:
+
 I_Icon = aotIcon.ico
 IfExist, %I_Icon%
   Menu, Tray, Icon, %I_Icon%
