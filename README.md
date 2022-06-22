@@ -5,7 +5,7 @@ This allows you to lock windows always visible on top of the screen.
 HOW TO USE
 
 - Run the program
-- Select the windows you want lock and press "ALT + SPACE"
+- Select the window you want lock and press "ALT + SPACE"
 
 When you run the program, the process remains running in the background, you can see the icon appear at the bottom right, where you can also stop it.
 
